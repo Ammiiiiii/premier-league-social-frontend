@@ -1,0 +1,19 @@
+frontend/
+├── public/
+│   ├── index.html
+│   ├── styles.css
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Footer.js
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── About.js
+│   │   ├── SignUp.js
+│   │   ├── Profile.js
+│   │   ├── PostFeed.js
+│   │   ├── Event.js
+│   │   ├── Contact.js
+│   ├── App.js
+│   ├── index.js
+├── package.json
